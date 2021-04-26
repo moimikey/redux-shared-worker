@@ -12,7 +12,7 @@
     "build": "babel src -d lib"
   },
   "dependencies": {
-    "redux": "^3.5.2"
+    "redux": "^4.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
